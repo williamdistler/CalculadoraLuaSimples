@@ -1,4 +1,5 @@
 function getOperation()
+  print('wskdflskdafjfnsadlkjhfaslijn')
   print("CALCULADORA:")
   print("Digite o numero da operacao desjada:")
   print("1 - SOMA")
